@@ -31,3 +31,4 @@ The project is intended as preparation for a more extensive project which is to 
 As the project is being developed as part of the course "Programming 2" and therefore will be used for grading purposes, participation in the project is not possible.
 
 - [Exercise 1](exercise1.md)
+- [Exercise 2](exercise2.md)
