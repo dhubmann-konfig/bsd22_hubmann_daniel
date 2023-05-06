@@ -35,7 +35,7 @@ Bsp.: git log
 
 ## git diff
 
-zeigt die Veränderungen, die in einer Datei gemacht wurden; u.a \<branch>, \<commit>, \<commit-hash>, \<path to file> ; lokales Dateien; lokal  
+zeigt die Veränderungen, die in einer Datei gemacht wurden; u.a \<branch>, \<commit>, \<commit-hash>, \<path to file> ; lokale Dateien; lokal  
 Bsp.: git diff (zeigt Veränderungen seit dem letzten Commit)  
 Bsp.: git diff HEAD \<path to file>  
 Bsp.: git diff \<commit> \<commit> \<path to file>  

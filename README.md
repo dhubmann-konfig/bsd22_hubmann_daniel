@@ -30,10 +30,16 @@ The project is intended as preparation for a more extensive project which is to 
 
 As the project is being developed as part of the course "Programming 2" and therefore will be used for grading purposes, participation in the project is not possible.
 
+<<<<<<< HEAD
 ## Exercise 2 - Author Information
 
 User name: Daniel Hubmann  
 User email address: 01130491@edu.campus02.at
+=======
+# Exercise 2 
+
+## Links
+>>>>>>> 260db441e826f7597f0ad18d6191ce1750d47ea7
 
 1. [GitHub Profil](https://github.com/dhubmann-konfig)
 2. [FH Campus 02](https://www.campus02.at/startseite-2/?gclid=Cj0KCQjwr82iBhCuARIsAO0EAZxMFmr6GcoSJJl8lf2m8T030jdxCOGIonfv6BsKsfyZv1zeDw-MIfgaAqulEALw_wcB)
