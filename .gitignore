@@ -1,2 +1,6 @@
 *.html
 *.pdf
+/target/
+.classpath
+.project
+.settings/
