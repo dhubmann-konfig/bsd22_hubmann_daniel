@@ -40,3 +40,4 @@ User email address: 01130491@edu.campus02.at
 
 - [Exercise 1](exercise1.md)
 - [Exercise 2](exercise2.md)
+- [Exercise 3](exercise3.md)
