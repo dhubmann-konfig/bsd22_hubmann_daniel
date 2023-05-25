@@ -2,7 +2,7 @@
  * Calculator
  * Represents a calculator
  * Author: Daniel Hubmann
- * Last Change: 11.05.2023
+ * Last Change: 25.05.2023
  */
 
 package at.campus02.bsd;
@@ -17,7 +17,10 @@ public class Calculator {
 		return number1 - number2;
 	}
 
-	public double divide(double number1, double number2) {
+	public double divide(double number1, double number2) throws ArithmeticException {
+		if (number2 == 0) {
+			throw new ArithmeticException();
+		}
 		return number1 / number2;
 	}
 
