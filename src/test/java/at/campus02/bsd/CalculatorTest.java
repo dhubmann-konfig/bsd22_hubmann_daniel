@@ -1,8 +1,10 @@
 /*
  * CalculatorTest
  * Represents Test for Calculator Class
- * 
+ * Author: Daniel Hubmann
+ * Last Change: 25.05.2023
  */
+
 package at.campus02.bsd;
 
 import org.junit.jupiter.api.*;
@@ -59,6 +61,13 @@ public class CalculatorTest {
 	@Test
 	public void testDivide3() {
 		Assertions.assertEquals(2, c.divide(10, 5));
+	}
+	
+	@Test
+	public void testDivide4() {
+		Assertions.assertThrows(ArithmeticException.class, () -> {
+			c.divide(5, 0);
+		});
 	}
 
 	@Test
