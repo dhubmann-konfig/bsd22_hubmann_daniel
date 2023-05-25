@@ -25,4 +25,17 @@ public class Calculator {
 		return number1 * number2;
 	}
 
+	public long factorial(int number) {
+
+		if (number < 0) {
+			return 0;
+		}
+
+		if (number == 0) {
+			return 1;
+		}
+
+		return number * factorial(number - 1);
+	}
+
 }
