@@ -17,7 +17,7 @@ public class Main {
 		logger.info("info logger");
 		
 		Calculator c = new Calculator();
-		c.add(1, 2);
+		c.add(1, 2);		
 		c.minus(1, 2);
 		c.divide(1, 2);
 		c.multiply(1, 2);
