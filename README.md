@@ -42,4 +42,8 @@ User email address: 01130491@edu.campus02.at
 - [Exercise 2](exercise2.md)
 - [Exercise 3](exercise3.md)
 - [Exercise 4](exercise4.md)
+- [Exercise 5](exercise5.md)
 
+## Exercise 5 - Logging Template
+
+[Logging Template](log4j2.xml.template)
